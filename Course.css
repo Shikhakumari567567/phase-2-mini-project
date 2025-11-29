@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: grey;
+    color: black;
+}
+
+footer nav {
+    background: black;
+    padding: 12px 0;
+}
+
+footer nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer nav ul li {
+    display: inline;
+    margin:  20px;
+}
+
+footer nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+footer nav ul li a:hover {
+    color: yellow;
+}
+
+nav {
+    margin: 30px auto;
+    background-color: rgb(153, 99, 93);
+    padding: 30px;
+    border-radius: 30px;
+    
+}
+
+nav h3 {
+    margin-top: 15px;
+    color: black;
+}
